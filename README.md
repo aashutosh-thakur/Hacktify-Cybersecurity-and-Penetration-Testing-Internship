@@ -1,4 +1,4 @@
-Hacktify-Cybersecurity-and-Penetration-Testing-Internship
+# Hacktify-Cybersecurity-and-Penetration-Testing-Internship
 This repository contains materials from my internship at Hacktify Cyber Security (February 2025 - March 2025), showcasing my experience in vulnerability assessment, penetration testing, and CTF challenges.
 🛡️ Internship Overview
 During this 1-month remote internship, I focused on identifying and mitigating common web application vulnerabilities through hands-on exercises and real-world scenarios.
